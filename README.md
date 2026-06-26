@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bahadır yalçın 
 - 👀 I’m interested in DevOps,python and also my hobby is webscraping.
-- 🌱 I’m currently learning Openstack,Ansible,K8s
+- 🌱 I’m currently learning MlOps,Terraform,MCP,RAG,n8n
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me [https://www.linkedin.com/in/bahad%C4%B1r-yal%C3%A7%C4%B1n/](https://mt.linkedin.com/in/bahad%C4%B1r-yal%C3%A7%C4%B1n)
 
